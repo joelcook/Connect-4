@@ -1,16 +1,9 @@
-/*
- * Karin Whiting
- * COP 3330 Object Oriented Programming
- * University of Central Florida
- */
+
 package core;
 
 import userInterface.RoundButton;
 
-/**
- *
- * @author kwhiting
- */
+
 public class AiPlayer extends Player 
 {
     private int depth; // Look-ahead depth
